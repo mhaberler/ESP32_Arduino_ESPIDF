@@ -2,6 +2,7 @@
 #include <Arduino.h>
 
 void setup() {
+    vTaskDelay(5000);
     Serial.begin(115200);
     Serial.print("A\n\n");
     Serial.println("----------------------------------");
