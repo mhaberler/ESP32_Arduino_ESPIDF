@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.mpy": "python",
+        "sdkconfig.h": "c"
+    },
+    "idf.port": "/dev/cu.usbmodem2131301",
+    "idf.adapterTargetName": "esp32s3"
+}
